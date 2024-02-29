@@ -1,2 +1,2 @@
 # CursoGit
- Teste versionamento
+ Teste versionamento, aqui vamos aprender melhor sobre git/github
